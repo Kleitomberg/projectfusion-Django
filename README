@@ -1,13 +1,16 @@
-Programação Web com Python e Django Framework: Essencial
+Projeto desenvolvido no curso: Programação Web com Python e Django Framework: Essencial
 
-Neste foi possivel pegar um template interar dados dinamicamente do banco de dados
-utilizar upload de imagens, configurar formulario de contato, utilizando o painel do admin do django
+Neste foi possivel pegar um template para:
+  interar dados dinamicamente do banco de dados
+  utilizar upload de imagens
+  configurar formulario de contato
+  utilizando o painel do admin do django
 
 Para desenvolvimento do projeto foram utilizadas as bibliotecas
 
-Gunicor
-Dj_static
-psycopg2
+Gunicor - para hospedar siste no heroku
+Dj_static - para utilizar midias e arquivos estaticos
+psycopg2 -  para utilizar  o PostgreSQL 
 
 foram desenvolvidos testes unitarios com auxilio da biblioteca 
 coverage e model-mommy
