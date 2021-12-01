@@ -2,7 +2,7 @@ Projeto desenvolvido no curso: Programação Web com Python e Django Framework: 
 
 Neste foi possivel pegar um template para:
   interar dados dinamicamente do banco de dados
-  utilizar upload de imagens
+  utilizar upload de imagens com | StdImage
   configurar formulario de contato
   utilizando o painel do admin do django
 
