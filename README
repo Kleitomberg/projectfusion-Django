@@ -14,3 +14,7 @@ psycopg2 -  para utilizar  o PostgreSQL
 
 foram desenvolvidos testes unitarios com auxilio da biblioteca 
 coverage e model-mommy
+
+Acesse o projeto 
+
+https://fusion-kbs.herokuapp.com/
